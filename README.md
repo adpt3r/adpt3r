@@ -9,4 +9,4 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Linux/Unix**, **Networking**, **Hardening**, **Development**, **Reverse-Engeneering.**
 - 📫 Reach me: [Mail](mailto:public_@tutanota.com)
-- ⚡️ Fun fact: I did OSCE when I was 18 years old.
+
